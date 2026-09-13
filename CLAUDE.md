@@ -4,7 +4,8 @@ Agregador de torneos de golf en España. Dada una comunidad autónoma y el perfi
 (fecha de nacimiento + hándicap), devuelve el calendario de torneos en los que **ese jugador
 concreto** puede inscribirse. Alcance inicial: categorías juveniles. Uso personal y familiar.
 
-**Estado:** Fase 0 completada (auditoría de fuentes). Sin código aún.
+**Estado:** Fase 1 en curso. Fuente de Madrid operativa (`python -m sources.madrid` → 105 torneos
+juveniles de 2026). Pendientes: RFEG y `normalize/`.
 
 ---
 
@@ -48,10 +49,12 @@ python -m http.server 8000      # servir web/ en local
 
 ## Convenciones críticas
 
-**Un parser, config por sitio.** Las federaciones autonómicas y la RFEG comparten familia de
-plataforma pero usan **códigos internos distintos** (Juvenil es `committe=17` en la RFEG y `9` en
-Madrid; los meses son `0-11` en una y `01-12` en la otra). Estos códigos **no se adivinan**: se leen
-del `<select>` de cada sitio y se guardan como configuración, nunca hardcodeados en la lógica.
+**Un esquema, un módulo por fuente.** Las fuentes comparten el *vocabulario* de filtros pero no el
+transporte: Madrid sirve **JSON** por `POST /ajax/competiciones`, la RFEG es **HTML** renderizado en
+servidor (no tiene ese endpoint: 404). Lo común es el dataclass `Torneo` de `sources/base.py`, no el
+código de extracción. Los **códigos internos difieren** (Juvenil es `committe=17` en la RFEG y
+`comite=9` en Madrid; los meses son `0-11` en una y `01-12` en la otra) y **no se adivinan**: se leen
+del `<select>` de cada sitio y viven como configuración, nunca hardcodeados en la lógica.
 
 **`categorias[]` es el conjunto de categorías ADMITIDAS por el torneo**, no la categoría del jugador.
 Las categorías anidan hacia abajo: un torneo que admite `Sub-18, Cadete, Infantil, Alevín` acepta a
@@ -82,6 +85,11 @@ Nunca peticiones a la fuente en cada visita de usuario.
 - **El HTML de la familia RFEG trae texto de relleno en producción** (`contenidossss de dentro`).
   Anclar el parser a etiquetas del bloque, nunca a posiciones.
 - **La RFEG ignora `size` y `page`**: devuelve siempre 9 resultados por consulta.
+- **Madrid ignora los parámetros de la URL** (`?year=&committe=`): son decorativos, el filtrado real
+  va por `POST /ajax/competiciones` con los nombres `anio`/`mes`/`comite`/`circuito`. También ignora
+  `limit`: una petición trae el año entero, sin paginación.
+- **El JSON de Madrid no trae categorías ni sexo.** Solo están en el texto del nombre del torneo y en
+  el circuito. Inferirlos es trabajo de `normalize/`; el scraper deja `categorias=[]` a propósito.
 
 ---
 

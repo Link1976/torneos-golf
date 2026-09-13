@@ -1,0 +1,21 @@
+[
+  [
+    {"id":68254,"inicio":"2026-09-18T12:00:00+02:00","fin":"2026-09-18T12:00:00+02:00","modo":3,"nombre":"Copa Alianza Juvenil","estado":"abierta","jugadores":1,"fecha":"2026-09-18","wagr":false,"clid":"7739","clorg":"CM00","numJornadas":3,"fechasJornadas":"2026-09-18,2026-09-19,2026-09-20","nombreClub":"Naturavila Golf","grouping":false},
+    {"id":68237,"inicio":"2026-05-27T10:00:00+02:00","fin":"2026-06-03T10:00:00+02:00","modo":3,"nombre":"II Puntuable Universitario","estado":"cancelada","jugadores":1,"fecha":"2026-06-06","wagr":false,"clid":"CMA5","clorg":"CM00","numJornadas":1,"fechasJornadas":"2026-06-06","nombreClub":"Golf Santander S.a.","grouping":false},
+    {"id":68535,"inicio":"2026-03-13T12:00:00+01:00","fin":"2026-03-13T12:00:00+01:00","modo":1,"nombre":"Campeonato Sub18 de Castilla-La Mancha","estado":"abierta","jugadores":1,"fecha":"2026-03-13","wagr":true,"clid":"8845","clorg":"CM00","numJornadas":3,"fechasJornadas":"2026-03-13,2026-03-14,2026-03-15","nombreClub":"","grouping":false},
+    {"id":67779,"inicio":"2026-01-22T12:00:00+01:00","fin":"2026-01-22T12:00:00+01:00","modo":2,"nombre":"Torneo IMG Juvenil","estado":"abierta","jugadores":1,"fecha":"2026-04-25","wagr":false,"clid":"CM60","clorg":"CM00","numJornadas":2,"fechasJornadas":"2026-04-25,2026-04-26","nombreClub":"Golf Los Retamares","grouping":false},
+    {"id":67586,"inicio":"2026-03-05T12:00:00+01:00","fin":"2026-03-05T12:00:00+01:00","modo":3,"nombre":"Campeonato de Madrid Universitario 2026","estado":"finalizada","jugadores":1,"fecha":"2026-03-05","wagr":false,"clid":"CM81","clorg":"CM00","numJornadas":1,"fechasJornadas":"2026-03-05","nombreClub":"Club de Golf Olivar de La Hinojosa","grouping":false},
+    {"id":65858,"inicio":"2025-12-29T10:00:00+01:00","fin":"2026-01-05T10:00:00+01:00","modo":3,"nombre":"Torneo Alevín de P&P \"Golf Negralejo\"","estado":"finalizada","jugadores":1,"fecha":"2026-01-11","wagr":false,"clid":"CM33","clorg":"CM00","numJornadas":1,"fechasJornadas":"2026-01-11","nombreClub":"Golf Negralejo","grouping":false},
+    {"id":65862,"inicio":"2025-12-29T10:00:00+01:00","fin":"2026-01-05T10:00:00+01:00","modo":3,"nombre":"Circuito Benjamín de P&P \"Golf Negralejo\"","estado":"finalizada","jugadores":1,"fecha":"2026-01-11","wagr":false,"clid":"CM33","clorg":"CM00","numJornadas":1,"fechasJornadas":"2026-01-11","nombreClub":"Golf Negralejo","grouping":false},
+    {"id":65859,"inicio":"2026-02-11T12:00:00+01:00","fin":"2026-02-11T12:00:00+01:00","modo":3,"nombre":"Final Circuito Alevín y Benjamín de P&P","estado":"finalizada","jugadores":1,"fecha":"2026-02-15","wagr":false,"clid":"CM18","clorg":"CM00","numJornadas":1,"fechasJornadas":"2026-02-15","nombreClub":"Golf Park Entertainment","grouping":false}
+  ],
+  {
+    "65858":[["Circuito Alevín Y Benjamín De P&p 25/26",226]],
+    "65859":[["Circuito Alevín Y Benjamín De P&p 25/26",226]],
+    "65862":[["Circuito Alevín Y Benjamín De P&p 25/26",226]],
+    "67779":[["Circuito Juvenil 2026",225]],
+    "68237":[["Liga Universitaria Rfgm 2026",270]],
+    "68254":[["Circuito Juvenil 2026",225]],
+    "68535":[["Circuito Juvenil 2026",225]]
+  }
+]

@@ -71,10 +71,71 @@ Más dirección completa del club: `TOMARES, SEVILLA, ANDALUCÍA, España` → *
 
 | Aspecto | Hallazgo |
 |---|---|
-| Formato | HTML renderizado en servidor, **misma familia de plataforma que rfegolf.es** |
+| Formato | **JSON.** El calendario se pinta en cliente desde un endpoint propio — *corregido 13/09/2026, ver abajo* |
 | `robots.txt` | **404 — no existe.** Sin restricciones declaradas |
-| Volumen | Decenas de torneos por temporada, del tipo exacto que se busca |
+| Volumen | **105 competiciones juveniles en 2026** |
 | Inscripción | Enlaza a `nextcaddy.com/tour/{id}/inscripcion` |
+
+#### ⚠️ Corrección (13/09/2026): no es HTML, es una API JSON
+
+La auditoría inicial dio por hecho HTML renderizado en servidor. **No lo es.** Los parámetros
+de la URL (`?year=&month=&committe=`) son decorativos: el servidor los ignora y devuelve
+siempre el calendario completo. El filtrado ocurre en cliente, vía AJAX:
+
+```
+POST https://fedgolfmadrid.com/ajax/competiciones
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+
+exportar=false&page=0&anio=2026&mes=&comite=9&circuito=&id=&slug=&count=0&limit=500
+```
+
+Nombres de parámetro reales (del atributo `data-nombre` de cada `<select>`): **`anio`, `mes`,
+`comite`, `circuito`** — no `year`/`month`/`committe`. `count=1` devuelve el contador;
+`count=0` la lista. **`limit` se ignora**: una petición trae el año entero, sin paginación.
+
+**La respuesta es un array de dos bloques:**
+
+```jsonc
+[
+  [ { "id": 68254, "nombre": "Copa Alianza Juvenil",
+      "fecha": "2026-09-18", "numJornadas": 3,
+      "fechasJornadas": "2026-09-18,2026-09-19,2026-09-20",
+      "inicio": "2026-09-18T12:00:00+02:00",   // ventana de inscripción: apertura
+      "fin":    "2026-09-18T12:00:00+02:00",   // FECHA LÍMITE
+      "estado": "abierta",                     // abierta | finalizada | cancelada
+      "modo": 3,                               // 3=online, 2=en el club, 1=? (sin documentar)
+      "jugadores": 1,                          // 1 indiv., 2 pareja, 0 agrupación, 3/4=?
+      "nombreClub": "Naturavila Golf", "clid": "7739", "clorg": "CM00",
+      "wagr": false, "grouping": false } ],
+  { "68254": [ ["Circuito Juvenil 2026", 225] ] }   // id -> circuitos
+]
+```
+
+Esto es **mejor de lo esperado**: datos estructurados, con la ventana de inscripción incluida,
+sin parsear markup sucio. El riesgo nº 4 desaparece para esta fuente.
+
+**Lo que el JSON NO trae:** `categorias[]`, `hcp_max` ni sexo. La categoría solo vive en el texto
+del nombre (*"Torneo Alevín de P&P"*, *"Campeonato Sub18"*) y en el circuito. Inferirla es trabajo
+de `normalize/`, no del scraper.
+
+**Códigos de comité de Madrid** (leídos del `<select data-nombre="comite">` el 13/09/2026):
+
+```
+9 Juvenil · 11 Profesionales · 12 Clubes sin campo · 14 Pitch & Putt · 15 Golf Adaptado
+53 Árbitros y Reglas · 54 Amateur Femenino · 55 Amateur Masculino · 61 Técnico de Árbitros
+65 Golf en Colegios · 87 Alta Competición · 88 Comisión Promoción
+```
+
+#### ⚠️ La RFEG **no** comparte transporte
+
+Comprobado: `POST rfegolf.es/ajax/competiciones` devuelve **404**. La RFEG sigue siendo HTML
+renderizado en servidor. Las dos fuentes comparten el *vocabulario de filtros* (año, mes, comité,
+con la misma errata `committe` en la URL de la RFEG), pero **no el transporte**.
+
+**Consecuencia de diseño:** "un parser, config por sitio" era demasiado optimista. Lo que se
+comparte es el **esquema `Torneo`**, no el código de extracción. Cada fuente trae su propio módulo
+con su propio transporte; `sources/base.py` fija el contrato común.
 
 **Misma arquitectura de filtros, códigos distintos:**
 
@@ -86,7 +147,8 @@ Más dirección completa del club: `TOMARES, SEVILLA, ANDALUCÍA, España` → *
 
 El selector de **Circuitos** de Madrid es una capa que la RFEG no tiene: *Circuito Access Series*, *Circuito 5ª Categoría de 9 Hoyos*, *Circuito Fun&Golf*, *Circuito Amateur*, *Circuito Senior Masculino*. Aquí es donde vive el golf de base.
 
-**Conclusión de diseño:** un parser, un diccionario de config por sitio. No 17 scrapers a medida.
+**Conclusión de diseño (revisada):** un **esquema** común y un módulo por fuente. Los códigos de
+cada sitio van como configuración, nunca en la lógica. Ver la corrección de arriba.
 
 ---
 
@@ -174,7 +236,7 @@ También: el hándicap máximo asignable en cualquier categoría es **54.0**, y 
 |---|---|
 | "Empezar por fuente nacional que cubra toda España" | ⚠️ **Parcialmente falso.** La RFEG da geografía pero solo 9 eventos/año |
 | "NextCaddy como fuente" | ❌ **Descartada.** `robots.txt` lo prohíbe. Solo enlace de salida |
-| "17 scrapers frágiles" | ✅ **Mejor de lo temido.** Al menos RFEG y Madrid comparten plataforma |
+| "17 scrapers frágiles" | ⚠️ **Matizado.** RFEG y Madrid comparten filtros pero no transporte (JSON vs HTML) |
 | "El esquema soporta absoluto y sénior" | ✅ **Confirmado.** Madrid ya publica circuitos Senior y Amateur |
 | "hcp_max disponible" | ❌ **No en HTML.** Vive en circulares PDF → `null` en v1 |
 

@@ -1,0 +1,2531 @@
+{
+  "torneos": [
+    {
+      "id": "madrid:65862",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Circuito Benjamín de P&P \"Golf Negralejo\"",
+      "fecha_inicio": "2026-01-11",
+      "fecha_fin": "2026-01-11",
+      "jornadas": [
+        "2026-01-11"
+      ],
+      "club": "Golf Negralejo",
+      "inscripcion_desde": "2025-12-29T10:00:00+01:00",
+      "inscripcion_hasta": "2026-01-05T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/65862",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Alevín Y Benjamín De P&p 25/26"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:65858",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín de P&P \"Golf Negralejo\"",
+      "fecha_inicio": "2026-01-11",
+      "fecha_fin": "2026-01-11",
+      "jornadas": [
+        "2026-01-11"
+      ],
+      "club": "Golf Negralejo",
+      "inscripcion_desde": "2025-12-29T10:00:00+01:00",
+      "inscripcion_hasta": "2026-01-05T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/65858",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Alevín Y Benjamín De P&p 25/26"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:65859",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Final Circuito Alevín y Benjamín de P&P",
+      "fecha_inicio": "2026-02-15",
+      "fecha_fin": "2026-02-15",
+      "jornadas": [
+        "2026-02-15"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-02-11T12:00:00+01:00",
+      "inscripcion_hasta": "2026-02-11T12:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/65859",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Alevín Y Benjamín De P&p 25/26"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67849",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Sub16 Masculino \"Retamares\"",
+      "fecha_inicio": "2026-02-15",
+      "fecha_fin": "2026-02-15",
+      "jornadas": [
+        "2026-02-15"
+      ],
+      "club": "Golf Los Retamares",
+      "inscripcion_desde": "2026-02-02T10:00:00+01:00",
+      "inscripcion_hasta": "2026-02-09T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67849",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67850",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil Absoluto Femenino \"Retamares\"",
+      "fecha_inicio": "2026-02-28",
+      "fecha_fin": "2026-02-28",
+      "jornadas": [
+        "2026-02-28"
+      ],
+      "club": "Golf Los Retamares",
+      "inscripcion_desde": "2026-02-16T10:00:00+01:00",
+      "inscripcion_hasta": "2026-02-23T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67850",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67851",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil Absoluto \"B.A. Torrejón\"",
+      "fecha_inicio": "2026-03-01",
+      "fecha_fin": "2026-03-01",
+      "jornadas": [
+        "2026-03-01"
+      ],
+      "club": "Campo de Golf B.a. de Torrejon",
+      "inscripcion_desde": "2026-02-16T10:00:00+01:00",
+      "inscripcion_hasta": "2026-02-23T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67851",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67586",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Universitario 2026",
+      "fecha_inicio": "2026-03-05",
+      "fecha_fin": "2026-03-05",
+      "jornadas": [
+        "2026-03-05"
+      ],
+      "club": "Club de Golf Olivar de La Hinojosa",
+      "inscripcion_desde": "2026-03-05T12:00:00+01:00",
+      "inscripcion_hasta": "2026-03-05T12:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67586",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67818",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil Masculino \"Illescas\"",
+      "fecha_inicio": "2026-03-07",
+      "fecha_fin": "2026-03-07",
+      "jornadas": [
+        "2026-03-07"
+      ],
+      "club": null,
+      "inscripcion_desde": "2026-02-23T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-02T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67818",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68507",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Golf Negralejo\" Tiro 11:30",
+      "fecha_inicio": "2026-03-08",
+      "fecha_fin": "2026-03-08",
+      "jornadas": [
+        "2026-03-08"
+      ],
+      "club": "Golf Negralejo",
+      "inscripcion_desde": "2026-02-23T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-02T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68507",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68509",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Golf Negralejo\" Tiro 13:30",
+      "fecha_inicio": "2026-03-08",
+      "fecha_fin": "2026-03-08",
+      "jornadas": [
+        "2026-03-08"
+      ],
+      "club": "Golf Negralejo",
+      "inscripcion_desde": "2026-02-23T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-02T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68509",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68146",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Golf Negralejo\" Tiro 9:30",
+      "fecha_inicio": "2026-03-08",
+      "fecha_fin": "2026-03-08",
+      "jornadas": [
+        "2026-03-08"
+      ],
+      "club": "Golf Negralejo",
+      "inscripcion_desde": "2026-02-23T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-02T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68146",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67819",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil Femenino \"Illescas\"",
+      "fecha_inicio": "2026-03-08",
+      "fecha_fin": "2026-03-08",
+      "jornadas": [
+        "2026-03-08"
+      ],
+      "club": null,
+      "inscripcion_desde": "2026-02-23T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-02T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67819",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68535",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato Sub18 de Castilla-La Mancha",
+      "fecha_inicio": "2026-03-13",
+      "fecha_fin": "2026-03-15",
+      "jornadas": [
+        "2026-03-13",
+        "2026-03-14",
+        "2026-03-15"
+      ],
+      "club": null,
+      "inscripcion_desde": "2026-03-13T12:00:00+01:00",
+      "inscripcion_hasta": "2026-03-13T12:00:00+01:00",
+      "modo_inscripcion": "desconocido",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68535",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67774",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "I Puntuable Zonal Juvenil Madrid-CLM",
+      "fecha_inicio": "2026-03-14",
+      "fecha_fin": "2026-03-15",
+      "jornadas": [
+        "2026-03-14",
+        "2026-03-15"
+      ],
+      "club": "Layos Casa Campo S.a.",
+      "inscripcion_desde": "2026-02-23T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-09T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67774",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67587",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Universitario de Pitch & Putt 2026",
+      "fecha_inicio": "2026-03-19",
+      "fecha_fin": "2026-03-19",
+      "jornadas": [
+        "2026-03-19"
+      ],
+      "club": "Escuela de la Real Federación de Golf Madrid",
+      "inscripcion_desde": "2026-03-19T12:00:00+01:00",
+      "inscripcion_hasta": "2026-03-19T12:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67587",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67795",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Femenino \"JAS\"",
+      "fecha_inicio": "2026-03-21",
+      "fecha_fin": "2026-03-21",
+      "jornadas": [
+        "2026-03-21"
+      ],
+      "club": "Club de Golf Mistral Samaranch",
+      "inscripcion_desde": "2026-03-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67795",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67793",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Masculino \"Las Rejas\"",
+      "fecha_inicio": "2026-03-21",
+      "fecha_fin": "2026-03-21",
+      "jornadas": [
+        "2026-03-21"
+      ],
+      "club": "Forus Golf Las Rejas",
+      "inscripcion_desde": "2026-03-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67793",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67776",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Benjamín Femenino \"JAS\"",
+      "fecha_inicio": "2026-03-21",
+      "fecha_fin": "2026-03-21",
+      "jornadas": [
+        "2026-03-21"
+      ],
+      "club": "Club de Golf Mistral Samaranch",
+      "inscripcion_desde": "2026-03-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67776",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67775",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Benjamín Masculino \"Las Rejas\"",
+      "fecha_inicio": "2026-03-21",
+      "fecha_fin": "2026-03-21",
+      "jornadas": [
+        "2026-03-21"
+      ],
+      "club": "Forus Golf Las Rejas",
+      "inscripcion_desde": "2026-03-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67775",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67794",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Femenino \"Las Rejas\"",
+      "fecha_inicio": "2026-03-22",
+      "fecha_fin": "2026-03-22",
+      "jornadas": [
+        "2026-03-22"
+      ],
+      "club": "Forus Golf Las Rejas",
+      "inscripcion_desde": "2026-03-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67794",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67796",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Masculino \"JAS\"",
+      "fecha_inicio": "2026-03-22",
+      "fecha_fin": "2026-03-22",
+      "jornadas": [
+        "2026-03-22"
+      ],
+      "club": "Club de Golf Mistral Samaranch",
+      "inscripcion_desde": "2026-03-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67796",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67778",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Benjamín Femenino \"Las Rejas\"",
+      "fecha_inicio": "2026-03-22",
+      "fecha_fin": "2026-03-22",
+      "jornadas": [
+        "2026-03-22"
+      ],
+      "club": "Forus Golf Las Rejas",
+      "inscripcion_desde": "2026-03-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67778",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67777",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Benjamín Masculino \"JAS\"",
+      "fecha_inicio": "2026-03-22",
+      "fecha_fin": "2026-03-22",
+      "jornadas": [
+        "2026-03-22"
+      ],
+      "club": "Club de Golf Mistral Samaranch",
+      "inscripcion_desde": "2026-03-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67777",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68191",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp igual o menor de 42.0)",
+      "fecha_inicio": "2026-03-29",
+      "fecha_fin": "2026-03-29",
+      "jornadas": [
+        "2026-03-29"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-03-16T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-23T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68191",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68198",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp mayor o igual a 42.1)",
+      "fecha_inicio": "2026-03-29",
+      "fecha_fin": "2026-03-29",
+      "jornadas": [
+        "2026-03-29"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-03-16T10:00:00+01:00",
+      "inscripcion_hasta": "2026-03-23T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68198",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:69128",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Junior, Cadete e Infantil Puerta de Hierro",
+      "fecha_inicio": "2026-04-06",
+      "fecha_fin": "2026-04-06",
+      "jornadas": [
+        "2026-04-06"
+      ],
+      "club": "Real Club Puerta  de  Hierro",
+      "inscripcion_desde": "2026-03-25T10:00:00+01:00",
+      "inscripcion_hasta": "2026-04-01T14:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/69128",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68226",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"C.D. Juan Antonio Samaranch\" (Tiro 10:00)",
+      "fecha_inicio": "2026-04-11",
+      "fecha_fin": "2026-04-11",
+      "jornadas": [
+        "2026-04-11"
+      ],
+      "club": "Club de Golf Mistral Samaranch",
+      "inscripcion_desde": "2026-03-30T10:00:00+02:00",
+      "inscripcion_hasta": "2026-04-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68226",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68523",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"C.D. Juan Antonio Samaranch\" (Tiro 12:00)",
+      "fecha_inicio": "2026-04-11",
+      "fecha_fin": "2026-04-11",
+      "jornadas": [
+        "2026-04-11"
+      ],
+      "club": "Club de Golf Mistral Samaranch",
+      "inscripcion_desde": "2026-03-30T10:00:00+02:00",
+      "inscripcion_hasta": "2026-04-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68523",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68525",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"C.D. Juan Antonio Samaranch\" (Tiro 14:00)",
+      "fecha_inicio": "2026-04-11",
+      "fecha_fin": "2026-04-11",
+      "jornadas": [
+        "2026-04-11"
+      ],
+      "club": "Club de Golf Mistral Samaranch",
+      "inscripcion_desde": "2026-03-30T10:00:00+02:00",
+      "inscripcion_hasta": "2026-04-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68525",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68192",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp igual o menor de 42.0)",
+      "fecha_inicio": "2026-04-12",
+      "fecha_fin": "2026-04-12",
+      "jornadas": [
+        "2026-04-12"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-03-30T10:00:00+02:00",
+      "inscripcion_hasta": "2026-04-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68192",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68199",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp mayor o igual a 42.1)",
+      "fecha_inicio": "2026-04-12",
+      "fecha_fin": "2026-04-12",
+      "jornadas": [
+        "2026-04-12"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-03-30T10:00:00+02:00",
+      "inscripcion_hasta": "2026-04-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68199",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67853",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Sub18 \"El Encín\"",
+      "fecha_inicio": "2026-04-12",
+      "fecha_fin": "2026-04-12",
+      "jornadas": [
+        "2026-04-12"
+      ],
+      "club": "El Encin Golf",
+      "inscripcion_desde": "2026-03-30T10:00:00+02:00",
+      "inscripcion_hasta": "2026-04-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67853",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68227",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil MAJ \"Centro Nacional de Golf\"",
+      "fecha_inicio": "2026-04-18",
+      "fecha_fin": "2026-04-18",
+      "jornadas": [
+        "2026-04-18"
+      ],
+      "club": "Centro Nacional de Golf",
+      "inscripcion_desde": "2026-04-17T12:00:00+02:00",
+      "inscripcion_hasta": "2026-04-17T12:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68227",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68229",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "I Puntuable Universitario",
+      "fecha_inicio": "2026-04-25",
+      "fecha_fin": "2026-04-25",
+      "jornadas": [
+        "2026-04-25"
+      ],
+      "club": "Golf Santander S.a.",
+      "inscripcion_desde": "2026-04-13T10:00:00+02:00",
+      "inscripcion_hasta": "2026-04-22T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68229",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Universitaria Rfgm 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67779",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo IMG Juvenil",
+      "fecha_inicio": "2026-04-25",
+      "fecha_fin": "2026-04-26",
+      "jornadas": [
+        "2026-04-25",
+        "2026-04-26"
+      ],
+      "club": "Golf Los Retamares",
+      "inscripcion_desde": "2026-01-22T12:00:00+01:00",
+      "inscripcion_hasta": "2026-01-22T12:00:00+01:00",
+      "modo_inscripcion": "club",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67779",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67820",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Infantil",
+      "fecha_inicio": "2026-05-09",
+      "fecha_fin": "2026-05-10",
+      "jornadas": [
+        "2026-05-09",
+        "2026-05-10"
+      ],
+      "club": "Forus Golf Las Rejas",
+      "inscripcion_desde": "2026-04-27T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-04T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67820",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67852",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Abierto Femenino",
+      "fecha_inicio": "2026-05-15",
+      "fecha_fin": "2026-05-17",
+      "jornadas": [
+        "2026-05-15",
+        "2026-05-16",
+        "2026-05-17"
+      ],
+      "club": "Golf Santander S.a.",
+      "inscripcion_desde": "2026-04-15T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67852",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:69245",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "II Puntuable Zonal Juvenil Madrid - Castilla-La Mancha",
+      "fecha_inicio": "2026-05-16",
+      "fecha_fin": "2026-05-17",
+      "jornadas": [
+        "2026-05-16",
+        "2026-05-17"
+      ],
+      "club": null,
+      "inscripcion_desde": "2026-05-16T12:00:00+02:00",
+      "inscripcion_hasta": "2026-05-16T12:00:00+02:00",
+      "modo_inscripcion": "club",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/69245",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68232",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Encinas de Boadilla\" (Tiro 10:00 horas)",
+      "fecha_inicio": "2026-05-16",
+      "fecha_fin": "2026-05-16",
+      "jornadas": [
+        "2026-05-16"
+      ],
+      "club": "Club de Golf Encinas de Boadilla",
+      "inscripcion_desde": "2026-05-04T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-11T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68232",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:70352",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Encinas de Boadilla\" (Tiro 12:00 horas)",
+      "fecha_inicio": "2026-05-16",
+      "fecha_fin": "2026-05-16",
+      "jornadas": [
+        "2026-05-16"
+      ],
+      "club": "Club de Golf Encinas de Boadilla",
+      "inscripcion_desde": "2026-05-04T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-11T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/70352",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:70353",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Encinas de Boadilla\" (Tiro 14:00 horas)",
+      "fecha_inicio": "2026-05-16",
+      "fecha_fin": "2026-05-16",
+      "jornadas": [
+        "2026-05-16"
+      ],
+      "club": "Club de Golf Encinas de Boadilla",
+      "inscripcion_desde": "2026-05-04T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-11T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/70353",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67797",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Alevín",
+      "fecha_inicio": "2026-05-23",
+      "fecha_fin": "2026-05-24",
+      "jornadas": [
+        "2026-05-23",
+        "2026-05-24"
+      ],
+      "club": "Club de Golf Aranjuez",
+      "inscripcion_desde": "2026-05-11T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-18T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67797",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67780",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Benjamín",
+      "fecha_inicio": "2026-05-23",
+      "fecha_fin": "2026-05-24",
+      "jornadas": [
+        "2026-05-23",
+        "2026-05-24"
+      ],
+      "club": "Club de Golf Aranjuez",
+      "inscripcion_desde": "2026-05-11T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-18T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67780",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:70738",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil \"Las Rejas\"",
+      "fecha_inicio": "2026-05-30",
+      "fecha_fin": "2026-05-30",
+      "jornadas": [
+        "2026-05-30"
+      ],
+      "club": "Forus Golf Las Rejas",
+      "inscripcion_desde": "2026-05-18T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-25T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/70738",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68193",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp igual o menor de 42.0)",
+      "fecha_inicio": "2026-05-31",
+      "fecha_fin": "2026-05-31",
+      "jornadas": [
+        "2026-05-31"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-05-18T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-25T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68193",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68200",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp mayor o igual a 42.1)",
+      "fecha_inicio": "2026-05-31",
+      "fecha_fin": "2026-05-31",
+      "jornadas": [
+        "2026-05-31"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-05-18T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-25T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68200",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67822",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil \"El Encín\"",
+      "fecha_inicio": "2026-05-31",
+      "fecha_fin": "2026-05-31",
+      "jornadas": [
+        "2026-05-31"
+      ],
+      "club": "El Encin Golf",
+      "inscripcion_desde": "2026-05-18T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-25T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67822",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67978",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil Sub18 \"Barberán\"",
+      "fecha_inicio": "2026-05-31",
+      "fecha_fin": "2026-05-31",
+      "jornadas": [
+        "2026-05-31"
+      ],
+      "club": "C.d.s.c.e.a. Barberan y Collar",
+      "inscripcion_desde": "2026-05-18T10:00:00+02:00",
+      "inscripcion_hasta": "2026-05-25T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67978",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68237",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "II Puntuable Universitario",
+      "fecha_inicio": "2026-06-06",
+      "fecha_fin": "2026-06-06",
+      "jornadas": [
+        "2026-06-06"
+      ],
+      "club": "Golf Santander S.a.",
+      "inscripcion_desde": "2026-05-27T10:00:00+02:00",
+      "inscripcion_hasta": "2026-06-03T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68237",
+      "estado": "cancelada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Universitaria Rfgm 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67977",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Access Series \"Barberán\"",
+      "fecha_inicio": "2026-06-07",
+      "fecha_fin": "2026-06-07",
+      "jornadas": [
+        "2026-06-07"
+      ],
+      "club": "C.d.s.c.e.a. Barberan y Collar",
+      "inscripcion_desde": "2026-05-25T10:00:00+02:00",
+      "inscripcion_hasta": "2026-06-01T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67977",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Access Series 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68194",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp igual o menor de 42.0)",
+      "fecha_inicio": "2026-06-13",
+      "fecha_fin": "2026-06-13",
+      "jornadas": [
+        "2026-06-13"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-06-01T10:00:00+02:00",
+      "inscripcion_hasta": "2026-06-08T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68194",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68201",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp mayor o igual a 42.1)",
+      "fecha_inicio": "2026-06-13",
+      "fecha_fin": "2026-06-13",
+      "jornadas": [
+        "2026-06-13"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-06-01T10:00:00+02:00",
+      "inscripcion_hasta": "2026-06-08T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68201",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68240",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Access Series \"Dehesa Militar\"",
+      "fecha_inicio": "2026-06-20",
+      "fecha_fin": "2026-06-20",
+      "jornadas": [
+        "2026-06-20"
+      ],
+      "club": "Centro Deportivo Militar La Dehesa",
+      "inscripcion_desde": "2026-06-08T10:00:00+02:00",
+      "inscripcion_hasta": "2026-06-15T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68240",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Access Series 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68243",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf Family Challenge - Equipos de 3 - \"Escuela RFGM\"",
+      "fecha_inicio": "2026-06-27",
+      "fecha_fin": "2026-06-27",
+      "jornadas": [
+        "2026-06-27"
+      ],
+      "club": "Escuela de la Real Federación de Golf Madrid",
+      "inscripcion_desde": "2026-06-15T10:00:00+02:00",
+      "inscripcion_hasta": "2026-06-22T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68243",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:71227",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf Family Challenge - Equipos de 4 - \"Escuela RFGM\"",
+      "fecha_inicio": "2026-06-27",
+      "fecha_fin": "2026-06-27",
+      "jornadas": [
+        "2026-06-27"
+      ],
+      "club": "Escuela de la Real Federación de Golf Madrid",
+      "inscripcion_desde": "2026-06-15T10:00:00+02:00",
+      "inscripcion_hasta": "2026-06-22T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/71227",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:67854",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Sub18 y Sub16",
+      "fecha_inicio": "2026-07-07",
+      "fecha_fin": "2026-07-09",
+      "jornadas": [
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "club": "Real Automóvil Club de España (RACE)",
+      "inscripcion_desde": "2026-06-24T10:00:00+02:00",
+      "inscripcion_hasta": "2026-07-01T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/67854",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68247",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato Abierto de Madrid Masculino y Sub25",
+      "fecha_inicio": "2026-07-11",
+      "fecha_fin": "2026-07-13",
+      "jornadas": [
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13"
+      ],
+      "club": "Golf Santander S.a.",
+      "inscripcion_desde": "2026-06-29T10:00:00+02:00",
+      "inscripcion_hasta": "2026-07-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68247",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:70964",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato WAGR Femenino Golf Santander",
+      "fecha_inicio": "2026-07-11",
+      "fecha_fin": "2026-07-13",
+      "jornadas": [
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13"
+      ],
+      "club": "Golf Santander S.a.",
+      "inscripcion_desde": "2026-06-29T10:00:00+02:00",
+      "inscripcion_hasta": "2026-07-06T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/70964",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68248",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil Circuito MAJ \"La Dehesa\"",
+      "fecha_inicio": "2026-08-31",
+      "fecha_fin": "2026-08-31",
+      "jornadas": [
+        "2026-08-31"
+      ],
+      "club": "Club de Golf La Dehesa",
+      "inscripcion_desde": "2026-08-31T12:00:00+02:00",
+      "inscripcion_hasta": "2026-08-31T12:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68248",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68314",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Masculino \"Olivar de la Hinojosa\"",
+      "fecha_inicio": "2026-09-02",
+      "fecha_fin": "2026-09-02",
+      "jornadas": [
+        "2026-09-02"
+      ],
+      "club": "Club de Golf Olivar de La Hinojosa",
+      "inscripcion_desde": "2026-08-19T10:00:00+02:00",
+      "inscripcion_hasta": "2026-08-26T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68314",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68313",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Benjamín \"Olivar de la Hinojosa\"",
+      "fecha_inicio": "2026-09-02",
+      "fecha_fin": "2026-09-02",
+      "jornadas": [
+        "2026-09-02"
+      ],
+      "club": "Club de Golf Olivar de La Hinojosa",
+      "inscripcion_desde": "2026-08-19T10:00:00+02:00",
+      "inscripcion_hasta": "2026-08-26T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68313",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68316",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Femenino \"Olivar de la Hinojosa\"",
+      "fecha_inicio": "2026-09-03",
+      "fecha_fin": "2026-09-03",
+      "jornadas": [
+        "2026-09-03"
+      ],
+      "club": "Club de Golf Olivar de La Hinojosa",
+      "inscripcion_desde": "2026-08-19T10:00:00+02:00",
+      "inscripcion_hasta": "2026-08-26T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68316",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68315",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Benjamín \"Olivar de la Hinojosa\"",
+      "fecha_inicio": "2026-09-03",
+      "fecha_fin": "2026-09-03",
+      "jornadas": [
+        "2026-09-03"
+      ],
+      "club": "Club de Golf Olivar de La Hinojosa",
+      "inscripcion_desde": "2026-08-19T10:00:00+02:00",
+      "inscripcion_hasta": "2026-08-26T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68315",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68253",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Interclubes Alevín y Benjamín",
+      "fecha_inicio": "2026-09-12",
+      "fecha_fin": "2026-09-13",
+      "jornadas": [
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "club": "Club de Golf Aranjuez",
+      "inscripcion_desde": "2026-09-12T12:00:00+02:00",
+      "inscripcion_hasta": "2026-09-12T12:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68253",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68251",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Golf Park\" (Tiro 10:00)",
+      "fecha_inicio": "2026-09-12",
+      "fecha_fin": "2026-09-12",
+      "jornadas": [
+        "2026-09-12"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-08-31T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-07T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68251",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:72706",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Golf Park\" (Tiro 12:00)",
+      "fecha_inicio": "2026-09-12",
+      "fecha_fin": "2026-09-12",
+      "jornadas": [
+        "2026-09-12"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-08-31T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-07T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/72706",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:72707",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Golf Park\" (Tiro 14:00)",
+      "fecha_inicio": "2026-09-12",
+      "fecha_fin": "2026-09-12",
+      "jornadas": [
+        "2026-09-12"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-08-31T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-07T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/72707",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68195",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp igual o menor de 42.0)",
+      "fecha_inicio": "2026-09-13",
+      "fecha_fin": "2026-09-13",
+      "jornadas": [
+        "2026-09-13"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-08-31T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-07T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68195",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68202",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp mayor o igual a 42.1)",
+      "fecha_inicio": "2026-09-13",
+      "fecha_fin": "2026-09-13",
+      "jornadas": [
+        "2026-09-13"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-08-31T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-07T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68202",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68254",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Copa Alianza Juvenil",
+      "fecha_inicio": "2026-09-18",
+      "fecha_fin": "2026-09-20",
+      "jornadas": [
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "club": "Naturavila Golf",
+      "inscripcion_desde": "2026-09-18T12:00:00+02:00",
+      "inscripcion_hasta": "2026-09-18T12:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68254",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68255",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Escuela RFGM\" (Tiro 10:00)",
+      "fecha_inicio": "2026-09-20",
+      "fecha_fin": "2026-09-20",
+      "jornadas": [
+        "2026-09-20"
+      ],
+      "club": "Escuela de la Real Federación de Golf Madrid",
+      "inscripcion_desde": "2026-09-07T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-14T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68255",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:73453",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Escuela RFGM\" (Tiro 12:00)",
+      "fecha_inicio": "2026-09-20",
+      "fecha_fin": "2026-09-20",
+      "jornadas": [
+        "2026-09-20"
+      ],
+      "club": "Escuela de la Real Federación de Golf Madrid",
+      "inscripcion_desde": "2026-09-07T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-14T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/73453",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:73456",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Escuela RFGM\" (Tiro 14:00)",
+      "fecha_inicio": "2026-09-20",
+      "fecha_fin": "2026-09-20",
+      "jornadas": [
+        "2026-09-20"
+      ],
+      "club": "Escuela de la Real Federación de Golf Madrid",
+      "inscripcion_desde": "2026-09-07T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-14T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/73456",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:73457",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Escuela RFGM\" (Tiro 16:00)",
+      "fecha_inicio": "2026-09-20",
+      "fecha_fin": "2026-09-20",
+      "jornadas": [
+        "2026-09-20"
+      ],
+      "club": "Escuela de la Real Federación de Golf Madrid",
+      "inscripcion_desde": "2026-09-07T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-14T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/73457",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68318",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín y Benjamín MAJ",
+      "fecha_inicio": "2026-09-26",
+      "fecha_fin": "2026-09-26",
+      "jornadas": [
+        "2026-09-26"
+      ],
+      "club": "Club de Golf Aranjuez",
+      "inscripcion_desde": "2026-09-26T12:00:00+02:00",
+      "inscripcion_hasta": "2026-09-26T12:00:00+02:00",
+      "modo_inscripcion": "club",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68318",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68321",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"Forus Las Rejas\"",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-10-03",
+      "jornadas": [
+        "2026-10-03"
+      ],
+      "club": "Forus Golf Las Rejas",
+      "inscripcion_desde": "2026-09-21T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-28T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68321",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:73688",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil Femenino \"Retamares\"",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-10-03",
+      "jornadas": [
+        "2026-10-03"
+      ],
+      "club": "Golf Los Retamares",
+      "inscripcion_desde": "2026-09-21T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-28T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/73688",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68320",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil MAJ",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-10-03",
+      "jornadas": [
+        "2026-10-03"
+      ],
+      "club": "Golf Los Retamares",
+      "inscripcion_desde": "2026-10-03T12:00:00+02:00",
+      "inscripcion_hasta": "2026-10-03T12:00:00+02:00",
+      "modo_inscripcion": "club",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68320",
+      "estado": "cancelada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68319",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil Masculino \"El Encín\"",
+      "fecha_inicio": "2026-10-03",
+      "fecha_fin": "2026-10-03",
+      "jornadas": [
+        "2026-10-03"
+      ],
+      "club": "El Encin Golf",
+      "inscripcion_desde": "2026-09-21T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-28T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68319",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68323",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "II Puntuable Universitario",
+      "fecha_inicio": "2026-10-04",
+      "fecha_fin": "2026-10-04",
+      "jornadas": [
+        "2026-10-04"
+      ],
+      "club": "Golf Santander S.a.",
+      "inscripcion_desde": "2026-09-21T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-28T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68323",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Universitaria Rfgm 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:73691",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil Masculino \"Retamares\"",
+      "fecha_inicio": "2026-10-04",
+      "fecha_fin": "2026-10-04",
+      "jornadas": [
+        "2026-10-04"
+      ],
+      "club": "Golf Los Retamares",
+      "inscripcion_desde": "2026-09-21T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-28T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/73691",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68322",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil Femenino \"El Encín\"",
+      "fecha_inicio": "2026-10-04",
+      "fecha_fin": "2026-10-04",
+      "jornadas": [
+        "2026-10-04"
+      ],
+      "club": "El Encin Golf",
+      "inscripcion_desde": "2026-09-21T10:00:00+02:00",
+      "inscripcion_hasta": "2026-09-28T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68322",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68196",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp igual o menor de 42.0)",
+      "fecha_inicio": "2026-10-11",
+      "fecha_fin": "2026-10-11",
+      "jornadas": [
+        "2026-10-11"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-02-04T12:00:00+01:00",
+      "inscripcion_hasta": "2026-02-04T12:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68196",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68203",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp mayor o igual a 42.1)",
+      "fecha_inicio": "2026-10-11",
+      "fecha_fin": "2026-10-11",
+      "jornadas": [
+        "2026-10-11"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-02-04T12:00:00+01:00",
+      "inscripcion_hasta": "2026-02-04T12:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68203",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68325",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Masculino \"Olivar de la Hinojosa\"",
+      "fecha_inicio": "2026-10-17",
+      "fecha_fin": "2026-10-17",
+      "jornadas": [
+        "2026-10-17"
+      ],
+      "club": "Club de Golf Olivar de La Hinojosa",
+      "inscripcion_desde": "2026-10-05T10:00:00+02:00",
+      "inscripcion_hasta": "2026-10-12T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68325",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68334",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil Absoluto \"La Dehesa\"",
+      "fecha_inicio": "2026-10-17",
+      "fecha_fin": "2026-10-17",
+      "jornadas": [
+        "2026-10-17"
+      ],
+      "club": "Club de Golf La Dehesa",
+      "inscripcion_desde": "2026-10-05T10:00:00+02:00",
+      "inscripcion_hasta": "2026-10-12T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68334",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68330",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Access Series \"Las Rejas\"",
+      "fecha_inicio": "2026-10-18",
+      "fecha_fin": "2026-10-18",
+      "jornadas": [
+        "2026-10-18"
+      ],
+      "club": "Forus Golf Las Rejas",
+      "inscripcion_desde": "2026-10-05T10:00:00+02:00",
+      "inscripcion_hasta": "2026-10-12T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68330",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Access Series 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68327",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Femenino \"Olivar de la Hinojosa\"",
+      "fecha_inicio": "2026-10-18",
+      "fecha_fin": "2026-10-18",
+      "jornadas": [
+        "2026-10-18"
+      ],
+      "club": "Club de Golf Olivar de La Hinojosa",
+      "inscripcion_desde": "2026-10-05T10:00:00+02:00",
+      "inscripcion_hasta": "2026-10-12T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68327",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68328",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Infantil \"B.A. Torrejón\"",
+      "fecha_inicio": "2026-10-24",
+      "fecha_fin": "2026-10-25",
+      "jornadas": [
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "club": "Campo de Golf B.a. de Torrejon",
+      "inscripcion_desde": "2026-10-12T10:00:00+02:00",
+      "inscripcion_hasta": "2026-10-19T10:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68328",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:73616",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "III Puntuable Universitario",
+      "fecha_inicio": "2026-10-31",
+      "fecha_fin": "2026-10-31",
+      "jornadas": [
+        "2026-10-31"
+      ],
+      "club": "Golf Santander S.a.",
+      "inscripcion_desde": "2026-10-19T10:00:00+02:00",
+      "inscripcion_hasta": "2026-10-26T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/73616",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Universitaria Rfgm 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68349",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Juvenil Absoluto \"El Robledal\"",
+      "fecha_inicio": "2026-10-31",
+      "fecha_fin": "2026-10-31",
+      "jornadas": [
+        "2026-10-31"
+      ],
+      "club": "El Robledal Golf",
+      "inscripcion_desde": "2026-10-19T10:00:00+02:00",
+      "inscripcion_hasta": "2026-10-26T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68349",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68335",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Fun&Golf \"C.D. Juan Antonio Samaranch\"",
+      "fecha_inicio": "2026-11-08",
+      "fecha_fin": "2026-11-08",
+      "jornadas": [
+        "2026-11-08"
+      ],
+      "club": "Club de Golf Mistral Samaranch",
+      "inscripcion_desde": "2026-10-26T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-02T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68335",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Fun&Golf 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:69247",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil \"Montealvar\"",
+      "fecha_inicio": "2026-11-08",
+      "fecha_fin": "2026-11-08",
+      "jornadas": [
+        "2026-11-08"
+      ],
+      "club": "Montealvar Golf Club",
+      "inscripcion_desde": "2026-10-26T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-02T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/69247",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68357",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Masculino \"Illescas\"",
+      "fecha_inicio": "2026-11-14",
+      "fecha_fin": "2026-11-14",
+      "jornadas": [
+        "2026-11-14"
+      ],
+      "club": null,
+      "inscripcion_desde": "2026-11-02T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-09T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68357",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68358",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Benjamín Masculino \"Illescas\"",
+      "fecha_inicio": "2026-11-14",
+      "fecha_fin": "2026-11-14",
+      "jornadas": [
+        "2026-11-14"
+      ],
+      "club": null,
+      "inscripcion_desde": "2026-11-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-02T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68358",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:69248",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Infantil \"Montealvar\"",
+      "fecha_inicio": "2026-11-15",
+      "fecha_fin": "2026-11-15",
+      "jornadas": [
+        "2026-11-15"
+      ],
+      "club": "Montealvar Golf Club",
+      "inscripcion_desde": "2026-11-02T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-09T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/69248",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68256",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Interclubes Infantil y Cadete",
+      "fecha_inicio": "2026-11-20",
+      "fecha_fin": "2026-11-22",
+      "jornadas": [
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "club": "Campo de Golf de Talayuela",
+      "inscripcion_desde": "2026-09-26T12:00:00+02:00",
+      "inscripcion_hasta": "2026-09-26T12:00:00+02:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68256",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68359",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Alevín Femenino \"Illescas\"",
+      "fecha_inicio": "2026-11-21",
+      "fecha_fin": "2026-11-21",
+      "jornadas": [
+        "2026-11-21"
+      ],
+      "club": null,
+      "inscripcion_desde": "2026-11-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68359",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68360",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Torneo Benjamín Femenino \"Illescas\"",
+      "fecha_inicio": "2026-11-21",
+      "fecha_fin": "2026-11-21",
+      "jornadas": [
+        "2026-11-21"
+      ],
+      "club": null,
+      "inscripcion_desde": "2026-11-09T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-16T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68360",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68197",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp igual o menor de 42.0)",
+      "fecha_inicio": "2026-11-22",
+      "fecha_fin": "2026-11-22",
+      "jornadas": [
+        "2026-11-22"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-02-04T12:00:00+01:00",
+      "inscripcion_hasta": "2026-02-04T12:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68197",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68204",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Liga Femenina (hcp mayor o igual a 42.1)",
+      "fecha_inicio": "2026-11-22",
+      "fecha_fin": "2026-11-22",
+      "jornadas": [
+        "2026-11-22"
+      ],
+      "club": "Golf Park Entertainment",
+      "inscripcion_desde": "2026-02-04T12:00:00+01:00",
+      "inscripcion_hasta": "2026-02-04T12:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68204",
+      "estado": "finalizada",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Liga Femenina 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68355",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Campeonato de Madrid Dobles Masculino",
+      "fecha_inicio": "2026-11-28",
+      "fecha_fin": "2026-11-29",
+      "jornadas": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "club": "Centro Nacional de Golf",
+      "inscripcion_desde": "2026-11-16T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-23T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68355",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:70866",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Final Circuito Access Series \"Golf Santander\"",
+      "fecha_inicio": "2026-11-28",
+      "fecha_fin": "2026-11-28",
+      "jornadas": [
+        "2026-11-28"
+      ],
+      "club": "Golf Santander S.a.",
+      "inscripcion_desde": "2026-11-16T10:00:00+01:00",
+      "inscripcion_hasta": "2026-11-23T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/70866",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Access Series 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68338",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Final Liga Juvenil",
+      "fecha_inicio": "2026-12-13",
+      "fecha_fin": "2026-12-13",
+      "jornadas": [
+        "2026-12-13"
+      ],
+      "club": "Centro Nacional de Golf",
+      "inscripcion_desde": "2026-12-13T12:00:00+01:00",
+      "inscripcion_hasta": "2026-12-13T12:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68338",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    },
+    {
+      "id": "madrid:68354",
+      "fuente": "madrid",
+      "comunidad": "Madrid",
+      "nombre": "Final de Ranking Benjamín",
+      "fecha_inicio": "2026-12-19",
+      "fecha_fin": "2026-12-20",
+      "jornadas": [
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "club": "Club de Golf Olivar de La Hinojosa",
+      "inscripcion_desde": "2026-12-07T10:00:00+01:00",
+      "inscripcion_hasta": "2026-12-14T10:00:00+01:00",
+      "modo_inscripcion": "online",
+      "url_inscripcion": "https://www.nextcaddy.com/tour/68354",
+      "estado": "abierta",
+      "categorias": [],
+      "hcp_max": null,
+      "sexo": null,
+      "circuitos": [
+        "Circuito Juvenil 2026"
+      ],
+      "recogido_en": "2026-09-13T09:18:15.570095+02:00"
+    }
+  ],
+  "fuentes": {
+    "madrid": {
+      "recogido_en": "2026-09-13T07:18:15.582958+00:00",
+      "torneos": 105
+    }
+  },
+  "generado_en": "2026-09-13T07:18:15.582958+00:00"
+}
