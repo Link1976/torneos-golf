@@ -4,8 +4,9 @@ Agregador de torneos de golf en España. Dada una comunidad autónoma y el perfi
 (fecha de nacimiento + hándicap), devuelve el calendario de torneos en los que **ese jugador
 concreto** puede inscribirse. Alcance inicial: categorías juveniles. Uso personal y familiar.
 
-**Estado:** Fase 1 en curso. Fuente de Madrid operativa (`python -m sources.madrid` → 105 torneos
-juveniles de 2026). Pendientes: RFEG y `normalize/`.
+**Estado:** Fase 1 en curso. Madrid operativa con historial de cambios (`python -m sources.madrid`
+→ 105 torneos juveniles de 2026). `normalize/` tiene ya las categorías y el veredicto de
+elegibilidad. Pendientes: extracción de reglas de las normativas PDF, la RFEG, y el frontend.
 
 ---
 
@@ -57,12 +58,28 @@ código de extracción. Los **códigos internos difieren** (Juvenil es `committe
 del `<select>` de cada sitio y viven como configuración, nunca hardcodeados en la lógica.
 
 **`categorias[]` es el conjunto de categorías ADMITIDAS por el torneo**, no la categoría del jugador.
-Las categorías anidan hacia abajo: un torneo que admite `Sub-18, Cadete, Infantil, Alevín` acepta a
-todos ellos. La elegibilidad es `categoría_jugador ∈ categorías_torneo` **Y** `hcp_jugador ≤ hcp_max`.
+
+**Las categorías NO anidan todas hacia abajo.** Alevín (11-12) e Infantil (13-14) son bandas
+**cerradas**; Benjamín ("10 o menos") y los Sub-N ("X o menos") son abiertas hacia abajo. Un jugador
+de 12 años sí puede jugar un Sub-18, pero **no** un Infantil. Ver `normalize/categorias.py`.
+
+**La edad va por año natural**: `edad = año_temporada - año_nacimiento`. Fuente: *Normativa Circuito
+Juvenil 2026* (Circular 2/2026 RFGM) — "cumplan 11 o 12 años en el año en curso".
+
+**El hándicap es un RANGO, no un techo.** Fun&Golf exige un mínimo de 36,1 y Access Series de 7:
+hay torneos donde a un buen jugador lo excluyen por arriba de bueno. De ahí `hcp_min` y `hcp_max`.
+
+La elegibilidad es `edad_jugador ∈ franja(categoría_admitida)` **Y** `hcp_min ≤ hcp ≤ hcp_max`, y
+tiene **tres** resultados: sí, no y **no se sabe**. Un "no se sabe" nunca es un sí.
 
 **Nunca publicar un JSON vacío.** Si un scraper falla, el job falla ruidosamente y el calendario
 anterior se queda en pie. Un agregador que un día enseña "no hay torneos" por un fallo de parser es
 peor que no tener app.
+
+**Nunca borrar en silencio.** El calendario es volátil: los torneos cambian de fecha y se retiran a
+mitad de temporada. Un torneo que desaparece de la fuente se marca `en_fuente: false` con su
+`visto_por_ultima_vez`, no se elimina. Y lo que se mueve queda en `cambios[]` — el historial es lo
+único que no se puede reconstruir a posteriori.
 
 **Siempre enlazar a la fuente oficial.** La app es un agregador, no la fuente de verdad. Cada torneo
 lleva su `url_inscripcion`. El perjuicio de un error es una inscripción perdida.
@@ -76,12 +93,18 @@ Nunca peticiones a la fuente en cada visita de usuario.
 
 - **NextCaddy está vetada al rastreo.** Su `robots.txt` prohíbe `/tour/*/` y `/rest/*`, justo lo que
   haría falta. Se usa **solo como enlace de salida** para que el usuario se inscriba. No scrapear.
-- **`hcp_max` no está en el HTML de ninguna fuente.** Vive en circulares PDF. En v1 va a `null`, y la
-  app no debe afirmar elegibilidad basándose solo en la edad.
-- **La fecha de referencia de la edad está sin resolver.** La normativa RFEG dice "15 y 16 años", no
-  "año de nacimiento". Falta determinar si se computa a 31 de diciembre, en la fecha del torneo o por
-  año natural. **Bloquea `normalize/categorias.py`** — resolver con el reglamento oficial antes de
-  escribirlo, no inventarlo.
+- **Los límites de hándicap y las categorías admitidas viven en las normativas PDF**, una por
+  circuito, enlazadas desde `/circuito/{id}`. No están en el HTML ni en el JSON de ninguna fuente.
+  Se extraen una vez por temporada a configuración revisada, no en cada pasada del scraper.
+- **La fecha de referencia de la edad está RESUELTA**: año natural (ver *Convenciones críticas*).
+  Ojo con el alcance — es la normativa de Madrid; confirmar el reglamento nacional antes de
+  aplicarla a la RFEG.
+- **Las fuentes publican registros imposibles.** Hay un torneo en el calendario de Madrid cuya
+  inscripción cierra una semana antes de abrirse. `sources.base.validar()` los marca en `avisos[]`;
+  no se corrigen a ciegas.
+- **El emparejamiento difuso de nombres no sirve** para cruzar torneos con circulares: probado sobre
+  los 12 torneos sin circuito, 2 de los 4 "aciertos" eran falsos. Falla inventándose
+  correspondencias con aspecto de correctas.
 - **El HTML de la familia RFEG trae texto de relleno en producción** (`contenidossss de dentro`).
   Anclar el parser a etiquetas del bloque, nunca a posiciones.
 - **La RFEG ignora `size` y `page`**: devuelve siempre 9 resultados por consulta.

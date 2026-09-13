@@ -160,8 +160,12 @@ def _fecha_hora(valor: Optional[str]) -> Optional[datetime]:
 def main(anio: Optional[int] = None) -> int:
     anio = anio or date.today().year
     torneos = recoger(anio)
-    escritos = escribir_torneos(FUENTE, torneos)
-    print(f"{FUENTE}: {escritos} torneos juveniles de {anio}")
+    r = escribir_torneos(FUENTE, torneos)
+    print(
+        f"{FUENTE}: {r['total']} torneos juveniles de {anio} "
+        f"({r['nuevos']} nuevos, {r['modificados']} modificados, "
+        f"{r['retirados']} retirados, {r['reaparecidos']} reaparecidos)"
+    )
     return 0
 
 
